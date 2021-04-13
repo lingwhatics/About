@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: About Daley
 author: Daley Mikalson
 email: hi@daleym.ca
@@ -7,3 +7,7 @@ url: https://daleym.ca
 
 twitter_username: lingwhatics
 github_username:  lingwhatics
+
+
+# Build settings
+markdown: kramdown
