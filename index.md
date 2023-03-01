@@ -14,6 +14,13 @@ One day, I really will fill up this page.
 
 * * *
 
+## Name Pronunciation
+
+I pronounce my name /dεjˈli mɪkulson/, but my daughter decided it is /majkəlson/. This was added after seeing the names pages by [S. Qiouyi Lu](https://s.qiouyi.lu/press-kit/) and [Gretchen McCulloch](https://gretchenmcculloch.com/name/).
+
+Audio of my name pronunciation. <audio controls src="/audio/daley.mp3"></audio>
+
+
 ## Presentations
 
 2018-05 --- Simio User Group 2018, Pittsburgh, PA [Investigating the Impact of Regulatory Changes on Airport Security Throughput](https://www.simio.com/resources/events/2018-User-Group-Meeting/presentations/Arup.pdf "PDF file of slides for Investigating the Impact of Regulatory Changes on Airport Security Throughput")
